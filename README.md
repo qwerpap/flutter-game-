@@ -16,7 +16,7 @@ A new Flutter project.
 git clone https://github.com/qwerpap/flutter-game-.git
 
 
-** Установка зависимостей**
+**Установка зависимостей**
 
 
 
