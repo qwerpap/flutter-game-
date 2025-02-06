@@ -1,4 +1,4 @@
-// Состояния игры
+
 abstract class GameState {}
 class GameInitial extends GameState {}
 class GameInProgress extends GameState {

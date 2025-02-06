@@ -1,7 +1,7 @@
-// Экран результата
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import '../../bloc/bloc.dart';
+
 
 class ResultScreen extends StatelessWidget {
   final bool isWin;

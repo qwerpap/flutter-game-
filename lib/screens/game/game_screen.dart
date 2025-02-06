@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import '../../bloc/bloc.dart';
-import '../screens.dart';
+import '../result/result_screen.dart';
 
 class GameScreen extends StatelessWidget {
   @override
@@ -26,7 +26,7 @@ class GameScreen extends StatelessWidget {
                     decoration: InputDecoration(
                         labelText: 'Введите число',
                         hintStyle: TextStyle(
-                            color: Colors.white)), // change hint text color
+                            color: Colors.white)), 
                     style: TextStyle(color: Colors.blue),
                   ),
                   SizedBox(height: 20),
