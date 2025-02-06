@@ -22,7 +22,7 @@ class HomeScreen extends StatelessWidget {
               decoration: InputDecoration(
                   labelText: 'Угадать число от 0 до ...',
                   hintStyle:
-                      TextStyle(color: Colors.white)), // change hint text color
+                      TextStyle(color: Colors.white)), 
               style: TextStyle(color: Colors.blue),
             ),
             TextField(
