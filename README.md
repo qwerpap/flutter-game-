@@ -6,10 +6,12 @@ A new Flutter project.
 
 
 **Клонирование репозитория**
+
 git clone https://github.com/qwerpap/flutter-game-.git
 
 
 ** Установка зависимостей**
+
 flutter pub get
 
 
